@@ -1,10 +1,16 @@
-### 👋 Hi there（暂存上个厕所）
+### 👋 我的个人简单介绍
+
+### 24应届计科专业找工作
+<details open>
+<summary>点击展开 ...</summary>
 
 <div align="center">
+  
+  <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎大佬来看我;大四狗找工作找麻了&font=Roboto" />
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
 width="1200"  height="10">
-</div>
+  </div>
 
 ### 网络安全运维工程师
 
@@ -50,5 +56,7 @@ width="1200"  height="10">
 项目描述：G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库。
 
 主要负责：1. AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务；2. 负责 AntV 系列：antv 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。
+</div>
 
+</details>
 
