@@ -1,16 +1,13 @@
-### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-<!--
-**yizhixianfish/yizhixianfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG]<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎大佬来看我;大四狗找工作找麻了&font=Roboto" />
+](https://git.io/typing-svg)
+
+
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+
+</div>
