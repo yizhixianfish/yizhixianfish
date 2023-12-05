@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 <!--
 **yizhixianfish/yizhixianfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
