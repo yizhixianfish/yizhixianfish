@@ -9,10 +9,10 @@
 <details close>
 <summary>点击展开 ...</summary>
 看着网络疯传的19条大厂裁员和最近3个大厂暴雷和三个大厂信息泄露，我就很慌张，到底我什么时候能找个工作。。。。
-某多某宝中某建信息泄露，福报厂鹅厂和某滴线上挂科，但是工作还是很难找，我宿舍躺不住啊。。。
+某多某宝中某建信息泄露，福报厂鹅厂和某滴线上挂科，但是工作还是很难找，各个大厂裁员，学校以前还有美团（三快）来，现在只有电子厂，我宿舍躺不住啊。。。
 </details>
 
-### 24应届计科专业找工作
+### 24应届计科专业找工作（简历）
 <details open>
 <summary>点击展开 ...</summary>
 
@@ -74,7 +74,14 @@ width="1200"  height="10">
 </details>
 
 ### 涉及过的一些项目
-<details open>
+<details close>
+<summary>点击展开 ...</summary>
+获得的证书（图床在建）
+  
+</details>
+  
+### 涉及过的一些项目
+<details close>
 <summary>点击展开 ...</summary>
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
@@ -88,7 +95,7 @@ width="1200"  height="10">
 
 - 🌋 [AI入门拓展](https://github.com/yizhixianfish/) 
 
-- 🌁 [杂七杂八](https://github.com/yizhixianfish/) 
+- 🌁 [杂七杂八](https://github.com/yizhixianfish/)
 
 - 😺 [一些工具](https://github.com/yizhixianfish/) 
 
