@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Typing SVG]<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎大佬来看我;大四狗找工作找麻了&font=Roboto" />
-](https://git.io/typing-svg)
+]
 
 
 
