@@ -12,8 +12,7 @@ width="1200"  height="10">
 
 [![Mail](https://img.shields.io/badge/-yizhixianfish@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:yizhixianfish@outlook.com)
 [![Wechat](https://img.shields.io/badge/-13324577612-07c160?style=flat-square&logo=Wechat&logoColor=white)](https://qm.qq.com/q/yWOv19E2XY)
-[![GitHub User's stars](https://img.shields.io/github/stars/visiky?style=social)](https://github.com/yizhixianfish)
-[![Github](https://img.shields.io/github/followers/visiky?label=Follow&style=social)](https://github.com/yizhixianfish)
+
 
 你好，我是袁博，2024应届毕业生。
 
