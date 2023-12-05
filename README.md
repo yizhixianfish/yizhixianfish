@@ -60,3 +60,26 @@ width="1200"  height="10">
 
 </details>
 
+### 涉及过的一些项目
+<details open>
+<summary>点击展开 ...</summary>
+
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+- 🐻 [网络安全](https://github.com/yizhixianfish/) 
+
+- 🎃 [网络工程](https://github.com/yizhixianfish/) 
+
+- 🚀 [java前后端](https://github.com/yizhixianfish/) 
+
+- 🌋 [AI入门拓展](https://github.com/yizhixianfish/) 
+
+- 🌁 [杂七杂八](https://github.com/yizhixianfish/) 
+
+- 😺 [一些工具](https://github.com/yizhixianfish/) 
+
+
+更多内容直接点击：[我的博客在建中](heep://www.baidu.com)
+
+</details>
