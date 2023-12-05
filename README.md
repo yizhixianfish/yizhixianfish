@@ -5,16 +5,16 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
 width="1200"  height="10">
 </div>
-### 前端开发工程师
+前端开发工程师
 
 <img style="border-radius: 100%; padding-left: 0; margin-left: 10px; filter: brightness(1.2) contrast(.85) saturate(.05) sepia(.2)" src="https://avatars.githubusercontent.com/u/15646325?v=4" width="140" height="140" alt="avatar" align="right">
 
-[![Mail](https://img.shields.io/badge/-736929286@qq.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:736929286@qq.com)
+[![Mail](https://img.shields.io/badge/-yizhixianfish@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:yizhixianfish@outlook.com)
 [![Wechat](https://img.shields.io/badge/-15625057119-07c160?style=flat-square&logo=Wechat&logoColor=white)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![GitHub User's stars](https://img.shields.io/github/stars/visiky?style=social)](https://github.com/visiky)
 [![Github](https://img.shields.io/github/followers/visiky?label=Follow&style=social)](https://github.com/visiky)
 
-你好，我是廖晓娟，一个自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与从图表库到 BI 产品力的一体化建设，对商业智能领域数据可视化建设有较为丰富的经验。
+你好，我是一只咸鱼，
 
 [![github](https://cdn.jsdelivr.net/gh/turkyden/geek-resume/logo/social/github.png)](https://github.com/visiky)&nbsp;&nbsp;
 [![zhihu](https://cdn.jsdelivr.net/gh/turkyden/geek-resume/logo/social/zhihu.png)](https://www.zhihu.com/people/visiky)&nbsp;&nbsp;
