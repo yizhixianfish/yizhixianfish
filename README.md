@@ -6,7 +6,7 @@
 width="1200"  height="10">
 </div>
 
-<img style="border-radius: 100%; padding-left: 0; margin-left: 10px; filter: brightness(1.2) contrast(.85) saturate(.05) sepia(.2)" src="[https://avatars.githubusercontent.com/u/15646325?v=4](https://avatars.githubusercontent.com/u/152273871?v=4)" width="140" height="140" alt="avatar" align="right">
+<img style="border-radius: 100%; padding-left: 0; margin-left: 10px; filter: brightness(1.2) contrast(.85) saturate(.05) sepia(.2)" src="https://avatars.githubusercontent.com/u/15646325?v=4" width="140" height="140" alt="avatar" align="right">
 
 [![Mail](https://img.shields.io/badge/-yizhixianfish@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:yizhixianfish@outlook.com)
 [![Wechat](https://img.shields.io/badge/-15625057119-07c160?style=flat-square&logo=Wechat&logoColor=white)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
